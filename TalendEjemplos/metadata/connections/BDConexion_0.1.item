@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_ndXc8IOAEea9ts9GEzsbaQ" name="BDConexion" id="_Y1LEgIOAEea9ts9GEzsbaQ" label="BDConexion" dataPackage="_njG4kIOAEea9ts9GEzsbaQ" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/WideWorldImporters;Instance=SQL2016" Port="1433" Username="sa" Password="djaP2Qhc87s=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="WideWorldImporters" SqlSynthax="Sintaxis SQL" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="Instance=SQL2016" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+    <taggedValue xmi:id="_ndXc8YOAEea9ts9GEzsbaQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_ndvQYIOAEea9ts9GEzsbaQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_nd4aUIOAEea9ts9GEzsbaQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_nd4aUYOAEea9ts9GEzsbaQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_nd4aUoOAEea9ts9GEzsbaQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_nd4aU4OAEea9ts9GEzsbaQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_nd4aVIOAEea9ts9GEzsbaQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_nd4aVYOAEea9ts9GEzsbaQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_nf8P0IOAEea9ts9GEzsbaQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_nf8P0YOAEea9ts9GEzsbaQ" tag="DB ProductVersion" value="13.00.1711"/>
+    <taggedValue xmi:id="_nf8P0oOAEea9ts9GEzsbaQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_ndXc8oOAEea9ts9GEzsbaQ" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_njG4kIOAEea9ts9GEzsbaQ" name="WideWorldImporters" dataManager="_ndXc8IOAEea9ts9GEzsbaQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_njG4kYOAEea9ts9GEzsbaQ" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,2 +1,2 @@
-TOS_Jobs_Records={"TalendEjemplos"\:{"tos.count.businessModels"\:0,"tos.count.components"\:24,"tos.count.contextVariables"\:1,"tos.count.generatedJobDocs"\:0,"tos.count.jobs"\:4,"tos.count.metadatas"\:1,"tos.job.frequentComponents"\:{"tFilterRow"\:1,"tFixedFlowInput"\:6,"tJava"\:1,"tJavaRow"\:3,"tLogRow"\:7,"tSetGlobalVar"\:1,"tSortRow"\:1,"tUniqRow"\:2,"tUnite"\:2}}}
+TOS_Jobs_Records={"TalendEjemplos"\:{"tos.count.businessModels"\:0,"tos.count.components"\:26,"tos.count.contextVariables"\:1,"tos.count.generatedJobDocs"\:0,"tos.count.jobs"\:5,"tos.count.metadatas"\:1,"tos.job.frequentComponents"\:{"tFilterRow"\:1,"tFixedFlowInput"\:7,"tJava"\:1,"tJavaRow"\:3,"tLogRow"\:8,"tSetGlobalVar"\:1,"tSortRow"\:1,"tUniqRow"\:2,"tUnite"\:2}}}
 eclipse.preferences.version=1

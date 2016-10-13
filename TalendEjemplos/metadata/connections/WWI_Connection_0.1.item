@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_DDTQsIBsEeam1ZG-1zfMfg" name="WWI_Connection" id="_UwLXkIBrEeam1ZG-1zfMfg" label="WWI_Connection" dataPackage="_vpgNoIBvEeam1ZG-1zfMfg" ContextMode="true" ContextId="_vRgkYIBvEeam1ZG-1zfMfg" contextName="Default" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://pc-harias:1433/WideWorldImporters;Instance=SQL2016" dbVersionString="MYSQL_5" Port="context.WWI_Connection_Port" Username="context.WWI_Connection_Login" Password="context.WWI_Connection_Password" ServerName="context.WWI_Connection_Server" DatasourceName="" FileFieldName="" SID="context.WWI_Connection_Database" SqlSynthax="Sintaxis SQL" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="context.WWI_Connection_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.WWI_Connection_Schema">
+    <taggedValue xmi:id="_DDcaoIBsEeam1ZG-1zfMfg" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_DDcapYBsEeam1ZG-1zfMfg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_DDmLoIBsEeam1ZG-1zfMfg" tag="Status" value=""/>
+    <taggedValue xmi:id="_DDmLoYBsEeam1ZG-1zfMfg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_DDmLooBsEeam1ZG-1zfMfg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_DDmLo4BsEeam1ZG-1zfMfg" tag="Description" value=""/>
+    <taggedValue xmi:id="_DDmLpIBsEeam1ZG-1zfMfg" tag="Author" value=""/>
+    <taggedValue xmi:id="_DDmLpYBsEeam1ZG-1zfMfg" tag="otherParameter"/>
+    <taggedValue xmi:id="_DEfjgIBsEeam1ZG-1zfMfg" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_DEfjgYBsEeam1ZG-1zfMfg" tag="DB ProductVersion" value="13.00.1711"/>
+    <taggedValue xmi:id="_DEfjgoBsEeam1ZG-1zfMfg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_DDcaoYBsEeam1ZG-1zfMfg" key="CONN_PARA_KEY_USERNAME" value="context.WWI_Connection_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_vpgNoIBvEeam1ZG-1zfMfg" name="WideWorldImporters" dataManager="_DDTQsIBsEeam1ZG-1zfMfg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_vpgNoYBvEeam1ZG-1zfMfg" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

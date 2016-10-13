@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="WWI_Connection_Schema" prompt="WWI_Connection_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+  <contextParameter comment="" name="WWI_Connection_AdditionalParams" prompt="WWI_Connection_AdditionalParams?" promptNeeded="false" type="id_String" value="Instance=SQL2016"/>
+  <contextParameter comment="" name="WWI_Connection_Port" prompt="WWI_Connection_Port?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter comment="" name="WWI_Connection_Login" prompt="WWI_Connection_Login?" promptNeeded="false" type="id_String" value="sa"/>
+  <contextParameter comment="" name="WWI_Connection_Database" prompt="WWI_Connection_Database?" promptNeeded="false" type="id_String" value="WideWorldImporters"/>
+  <contextParameter comment="" name="WWI_Connection_Password" prompt="WWI_Connection_Password?" promptNeeded="false" type="id_Password" value="djaP2Qhc87s="/>
+  <contextParameter comment="" name="WWI_Connection_Server" prompt="WWI_Connection_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+</talendfile:ContextType>
